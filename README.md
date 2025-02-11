@@ -117,6 +117,10 @@ public class Cliente
 
 }
 ```
+
+![image](https://github.com/user-attachments/assets/3066bb85-5ae2-4b40-8299-e8a69c7fe265)
+
+
 > CuentaAhorro.cs
 ```CSharp
 namespace Financiera.WebApp.Modelos;
