@@ -2,7 +2,7 @@
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=18134676)
 # SESION DE LABORATORIO N° 03: Construyendo una aplicación Web utilizando Blazor Server
 
-### Nombre: 
+### Nombre: Sergio Lizárraga Pomareda
 
 ## OBJETIVOS
   * Desarrolla una aplicación web utilizando Blazor Server.
@@ -73,6 +73,9 @@ dotnet add package Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdap
 dotnet tool install -g dotnet-ef --version 8.0.0
 dotnet tool install -g dotnet-aspnet-codegenerator --version 8.0.0
 ```
+
+![image](https://github.com/user-attachments/assets/6c2a7631-db4b-4eb6-b1db-15ad4a6e16b6)
+
 
 3. Abrir Visual Studio Code y elegir la carpeta del proyecto, dentro del proyecto Financiera.WebApp, crear la carpeta Modelos, y dentro de esta crear los siguientes archivos con lo siguientes contenidos:
 > Cliente.cs
