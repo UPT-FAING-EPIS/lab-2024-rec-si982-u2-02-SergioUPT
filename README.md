@@ -406,6 +406,10 @@ public class TipoMovimientoConfiguracion : IEntityTypeConfiguration<TipoMovimien
     }
 }
 ```
+
+![image](https://github.com/user-attachments/assets/db3b9460-cec8-4fab-bb4d-ae4afae1c67f)
+
+
 7. En Visual Studio Code, dentro del proyecto Financiera.WebApp, en la raiz crear el siguiente archivo y contenido:
 > FinancieraContexto.cs
 ```CSharp
