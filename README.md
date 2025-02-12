@@ -459,6 +459,9 @@ public class FinancieraContexto : DbContext
 }
 ```
 
+![image](https://github.com/user-attachments/assets/938423ed-5314-41b6-baf5-dbe180e8e620)
+
+
 8. En el terminal, ejecutar el siguiente comando para iniciar una base de datos MariaDB:
 ```Bash
 md site && cs site
