@@ -209,6 +209,10 @@ public class CuentaAhorro
     }
 }
 ```
+
+![image](https://github.com/user-attachments/assets/4ebc670d-c812-4430-a41e-81648653ec04)
+
+
 > MovimientoCuenta.cs
 ```CSharp
 namespace Financiera.Dominio.Modelos;
@@ -278,6 +282,9 @@ public class MovimientoCuenta
     }
 }
 ```
+
+![image](https://github.com/user-attachments/assets/81955486-6013-4aa4-bddd-29c3a18b3063)
+
 > TipoMovimiento.cs
 ```CSharp
 namespace Financiera.WebApp.Modelos;
@@ -320,6 +327,10 @@ public class TipoMovimiento
     }
 }
 ```
+
+![image](https://github.com/user-attachments/assets/106583f4-c08e-43c1-a805-0308b8411d9f)
+
+
 4. En Visual Studio Code, dentro del proyecto Financiera.WebApp, crear la carpeta Mapeos, y dentro de esta crear los siguientes archivos con lo siguientes contenidos:
 > ClienteConfiguracion.cs
 ```CSharp
