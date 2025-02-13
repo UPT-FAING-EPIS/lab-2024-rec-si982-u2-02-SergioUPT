@@ -540,7 +540,19 @@ eb open
 ---
 ## Actividades Encargadas
 1. Construir el archivo terraform (archivo main.tf) para aprovisionar la insfraestructura mediante Github Actions (archivo infra.yml) en AWS (4ptos)
+
+
+
 2. Completar las vistas para los demas modelos Cuenta, Movimiento y Tipo. (2ptos)
+
+
 3. Completar la documentación de las clases (DocFX). (2ptos)
+
+
 4. Generar el diagrama Mermaid correspondiente al proyecto (dotnet tool install --global dll2mmd) (2ptos)
+
+
 5. Generar la automatización del despliegue de los cambios en la aplicación (archivo deploy.yml) (4 ptos)
+
+![image](https://github.com/user-attachments/assets/d9924b8b-655d-454d-a6ea-d444ffa917db)
+
