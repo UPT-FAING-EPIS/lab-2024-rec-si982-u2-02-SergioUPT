@@ -547,6 +547,7 @@ Primero creariamos el archivo main.tf:
 
 Luego se crearia infra.yml
 
+![image](https://github.com/user-attachments/assets/2a57c9b5-64c6-4b3c-977c-4fd1e5df5ff4)
 
 
 2. Completar las vistas para los demas modelos Cuenta, Movimiento y Tipo. (2ptos)
