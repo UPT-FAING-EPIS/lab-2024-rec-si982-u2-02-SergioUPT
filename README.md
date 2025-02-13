@@ -541,6 +541,12 @@ eb open
 ## Actividades Encargadas
 1. Construir el archivo terraform (archivo main.tf) para aprovisionar la insfraestructura mediante Github Actions (archivo infra.yml) en AWS (4ptos)
 
+Primero creariamos el archivo main.tf:
+
+![image](https://github.com/user-attachments/assets/eae0f3a6-3d9a-4bbc-a363-771c618c8ec1)
+
+Luego se crearia infra.yml
+
 
 
 2. Completar las vistas para los demas modelos Cuenta, Movimiento y Tipo. (2ptos)
